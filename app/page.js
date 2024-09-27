@@ -476,7 +476,7 @@ export default function Home() {
                 <img
                   src="/link1.png"
                   alt="Link 1"
-                  className="w-32 h-auto" // Adjust size as needed
+                  className="w-32 h-auto" 
                 />
               </a>
               <a
@@ -487,7 +487,7 @@ export default function Home() {
                 <img
                   src="/link2.png"
                   alt="Link 2"
-                  className="w-32 h-auto" // Adjust size as needed
+                  className="w-32 h-auto" 
                 />
               </a>
             </div>
